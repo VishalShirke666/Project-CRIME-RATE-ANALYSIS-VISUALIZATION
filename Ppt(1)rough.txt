@@ -1,0 +1,18 @@
+introduction 
+Scope
+Proposed system
+Project workflow:Data pre-processing, clustering, classification and visualization.
+Algorithms
+
+Introduction:
+As  we  all  know  crime  is  an  offense  that  is  prohibited  by  law.
+Since  crime is  a  growing  concern  in  every  part  of  the  world  it  is very  essential  to  find  techniques  to  reduce  it. Crime analysis is a well oragnised way of detecting and examining patterns, trends in crime and a better understanding of crime is beneficial in multiple ways. With the Big Data era and the availability of fast, efficient algorithms for data analysis, understanding patterns in crime is an active and growing field of research. In India, the Police agencies of Mumbai, Delhi, Bangalore, etc. use GIS (A geographic information system that creates, manages, analyzes, and maps all types of data.) for crime mapping. But applications for GIS in policing is in starting stages and use of GIS based data analysis can be useful to police as well as citizens across major cities to tackle the increasing crime scenario.
+
+Scope:
+There is a change in  the  trends  of  crimes  and  it is very challenging to find the new trends and patterns in crime. Criminal data is available for public but it is mostly focused on combined data about a state. The data for individual cities is not easily accessible and is mostly in the form of FIR/charge sheets in local languages.This can be solved by analysing, classifying and creating a GIS environment for individual cities. Simple crime maps and statistical data in the form of graphs can help the police as well as the citizens in many ways. A person travelling to various locations can use such data for knowing the travel destination very well and avoid being a victim of crime.
+Much of the current work is useful majorly for policing and focused in two major directions:
+1)Predicting surges and hotspots of crime.
+2)Understanding patterns of criminal behavior that could help in solving criminal 
+investigations.
+
+

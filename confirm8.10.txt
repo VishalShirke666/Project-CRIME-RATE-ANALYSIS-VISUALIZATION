@@ -1,0 +1,47 @@
+1. 43,752
+2. 7524 
+3. 14273
+4. 16169
+5. 8501
+6. 3865
+7. 11397
+8. 7993
+9. 5321
+10. 2305
+11. 3069
+12. 4120
+13. 12279
+14. 8807
+15. 11886
+16. 7389
+17. 67338
+18. 25121
+19. 10612
+20. 7971
+21. 31629
+22. 7260
+23. 5555
+24. 6470
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
+31. 
+32. 
+33. 
+34. 
+35. 
+
+https://towardsdatascience.com/analysis-of-crimes-in-mexico-during-2017-with-machine-learning-techniques-cluster-analysis-9c25147dfa86
+
+https://www.kaggle.com/code/akshayreddykotha/us-crime-rate-k-means-clustering
+
+https://onlinefreetutorial.com/crime-airline-analysis/
+https://www.youtube.com/watch?v=nS3S6avkMEk&t=860s
+
+
+df.to_excel('clustering2020.xlsx')
+df['cluster']=y_kmeans
+df.head()
