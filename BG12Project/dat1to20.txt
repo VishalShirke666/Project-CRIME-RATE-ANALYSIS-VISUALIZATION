@@ -1,0 +1,59 @@
+(1.Homicide/Murder) MURDER	ATTEMPT TO MURDER	CULPABLE HOMICIDE NOT AMOUNTING TO MURDER	
+(7.Rape)RAPE	CUSTODIAL RAPE	OTHER RAPE	
+(5.Kidnapping_&_Abduction_Total)KIDNAPPING and ABDUCTION	KIDNAPPING AND ABDUCTION OF WOMEN AND GIRLS	KIDNAPPING AND ABDUCTION OF OTHERS	
+(8.Offences_against_State)DACOITY	PREPARATION AND ASSEMBLY FOR DACOITY	ROBBERY	BURGLARY	THEFT	AUTO THEFT	OTHER THEFT RIOTS CRIMINAL BREACH OF TRUST  CHEATING	COUNTERFIETING	ARSON	
+(3.Hurt)HURT/GREVIOUS HURT	
+(9.Other_IPC_crimes)DOWRY DEATHS OTHER IPC CRIMES
+(4.Assault_on_Women_with_intent_to_outrage_her_Modesty)ASSAULT ON WOMEN WITH INTENT TO OUTRAGE HER MODESTY	INSULT TO MODESTY OF WOMEN	CRUELTY BY HUSBAND OR HIS RELATIVES	
+(6.HumanTrafficking)IMPORTATION OF GIRLS FROM FOREIGN COUNTRIES	
+(2.Causing_Death_by_Negligence)CAUSING DEATH BY NEGLIGENCE
+
+
+Homicide/Murder	
+Causing_Death_by_Negligence	
+Hurt	
+Assault_on_Women_with_intent_to_outrage_her_Modesty	
+Kidnapping_&_Abduction_Total	
+HumanTrafficking	
+Rape	
+Offences_against_State		
+Other_IPC_crimes	
+Total
+
+
+Ahmednagar
+Akola
+Amravati
+Aurangbad
+Beed
+Bhandara
+Buldhana
+Chandrapur
+Dhule
+Gadchiroli
+Gondia
+Hingoli
+Jalgaon
+Jalna
+Kolhapur
+Latur
+Mumbai
+Nagpur
+Nanded
+Nandurbar
+Nasik
+Navi Mumbai
+Osmanabad
+Parbhani
+Pune
+Raigad
+Ratnagiri
+Sangli
+Satara
+Sindhudurg
+Solapur
+Thane
+Wardha
+Washim
+Yavatmal
+
